@@ -1,0 +1,27 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWP'dP'dWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWW"VWWWb """'.o.. .dWWWWWWWWWWWWP~~""_{WWWWWWWWWWWWWWWWWWWWWW
+WWWWWWb  """""""w.     jWWWWWWWP"  ,.--"'    .wWWWWWWWWWWWWWWWWWW
+WWWWWWWbWWWWF"""""`    WWWWWWP" .-"          {WWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWLLWP      jWWWWP"               .wwWWWWWWWWW WWWWWWWW
+WWWWW`W`W`WWWW'      jWWW'                 {WWWWWWWWWWP  `VWWWWWW
+WWWWWW, dWWWW'      jWWWW                 .wwWWP".w."WWP.WWWWWWWW
+WWWWWW' VWWWW        VWW'               _{WWWW( WWWW. P.WWWWWWWWW
+::::::':  :::         "                {  `:::::. '' ,.::::::::::
+:::::,:::  ::                                `''''  .::::::::::::
+::::::::::                                       ..,:::::::::::::
+:::::::::::   .                  ..:.      `:::::::::::::::::::::
+:::::::::::: ::   .: ::::::::   :::::::.          `::::::::::::::
+::::::::::::::' .::::::::::::.    .::::::::::::::  ::::::::::::::
+:::::::::::::'.:::::::::::::::::  ::::::::::::::'  ::::::::::::::
+:::::::'.....:.. ::::::::'......:. :::::::::'....::.`::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+Welcome to TermuxOutput
+
+<cat help> for list of commands 
+<cd> to exit TermuxOutput
