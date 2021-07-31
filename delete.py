@@ -1,3 +1,9 @@
-import os
+import shutil
 
-os.remove(TermuxOutput)
+path = "/data/data/com.termux/files/home/TermuxOutput"
+
+shutil.rmtree(path)
+
+print("Thank you for using TermuxOutput It shall now be deleted")
+
+
