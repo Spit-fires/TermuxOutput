@@ -7,3 +7,4 @@ shutil.rmtree(path)
 print("Thank you for using TermuxOutput It shall now be deleted")
 
 
+cd $home
