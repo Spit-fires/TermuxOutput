@@ -31,7 +31,7 @@ WWWWWW' VWWWW        VWW'               _{WWWW( WWWW. P.WWWWWWWWW
 
 print("Thank you for using TermuxOutput It shall now be deleted")
 
-print("please run "cd" to properly exit")
+print("please run <cd> to properly exit")
 
 
 
