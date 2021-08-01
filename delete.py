@@ -5,7 +5,7 @@ path = "/data/data/com.termux/files/home/TermuxOutput"
 shutil.rmtree(path)
 
 
-print("""
+print('''
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWP'dP'dWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
@@ -26,7 +26,7 @@ WWWWWW' VWWWW        VWW'               _{WWWW( WWWW. P.WWWWWWWWW
 :::::::'.....:.. ::::::::'......:. :::::::::'....::.`::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-""")
+''')
 
 
 print("Thank you for using TermuxOutput It shall now be deleted")
