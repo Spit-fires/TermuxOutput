@@ -1,3 +1,5 @@
+import os
+print("
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWP'dP'dWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
@@ -18,10 +20,11 @@ WWWWWW' VWWWW        VWW'               _{WWWW( WWWW. P.WWWWWWWWW
 :::::::'.....:.. ::::::::'......:. :::::::::'....::.`::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+")
 
-
-
+print("
 Welcome to TermuxOutput
 
-<cat help> for list of commands 
+<cat help.txt> for list of commands
 <cd> to exit TermuxOutput
+")
