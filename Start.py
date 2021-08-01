@@ -1,5 +1,5 @@
 import os
-print("
+print("""
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWP'dP'dWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
@@ -20,7 +20,7 @@ WWWWWW' VWWWW        VWW'               _{WWWW( WWWW. P.WWWWWWWWW
 :::::::'.....:.. ::::::::'......:. :::::::::'....::.`::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-")
+""")
 
 print("
 Welcome to TermuxOutput
