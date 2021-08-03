@@ -5,7 +5,7 @@ import os
 print("exiting...")
 
 # Change the current working directory
-os.chdir('/')
+os.chdir('/data/data/com.termux/files/home')
 
 # Print thank you msg
 print('thank you for using termux output')
